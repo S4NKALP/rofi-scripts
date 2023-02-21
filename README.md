@@ -9,11 +9,11 @@
   - Launcher
 
 
-|![img](https://github.com/niraj998/niraj998/blob/main/assets/Rofi/Music.png)|![img](https://github.com/niraj998/niraj998/blob/main/assets/Rofi/Wifi.png)|
+|![img](https://github.com/S4NKALP/scripts/blob/main/assets/Music.png)|![img](https://github.com/S4NKALP/scripts/blob/main/assets/Wifi.png)|
 |-|-|
-|![img](https://github.com/niraj998/niraj998/blob/main/assets/Rofi/USBmount.png)|![img](https://github.com/niraj998/niraj998/blob/main/assets/Rofi/AndroidMount.png)|
-|![img](https://github.com/niraj998/niraj998/blob/main/assets/Rofi/Screens.png)|![img](https://github.com/niraj998/niraj998/blob/main/assets/Rofi/Screenshot.png)|
-|![img](https://github.com/niraj998/niraj998/blob/main/assets/Rofi/Launcher.png)|
+|![img](https://github.com/S4NKALP/scripts/blob/main/assets/USBmount.png)|![img](https://github.com/S4NKALP/scripts/blob/main/assets/AndroidMount.png)|
+|![img](https://github.com/S4NKALP/scripts/blob/main/assets/Screens.png)|![img](https://github.com/S4NKALP/scripts/blob/main/assets/Screenshot.png)|
+|![img](https://github.com/S4NKALP/scripts/blob/main/assets/Launcher.png)|
 
 ## Installation
 Clone this repository
