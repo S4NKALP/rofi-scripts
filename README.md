@@ -1,7 +1,6 @@
-### Rofi for Everything
+### Rofi Scripts
 
 * Rofi configuration files and scripts for
-  - Music Control
   - Wifi Connections  
   - Mounting/Unmounting USB/Partitions
   - Mounting/Unmounting Android devices
@@ -9,7 +8,7 @@
   - Launcher
 
 
-|![img](https://github.com/S4NKALP/scripts/blob/main/assets/Music.png)|![img](https://github.com/S4NKALP/scripts/blob/main/assets/Wifi.png)|
+|![img](https://github.com/S4NKALP/scripts/blob/main/assets/Wifi.png)|
 |-|-|
 |![img](https://github.com/S4NKALP/scripts/blob/main/assets/USBmount.png)|![img](https://github.com/S4NKALP/scripts/blob/main/assets/AndroidMount.png)|
 |![img](https://github.com/S4NKALP/scripts/blob/main/assets/Screens.png)|![img](https://github.com/S4NKALP/scripts/blob/main/assets/Screenshot.png)|
