@@ -84,7 +84,8 @@ Enjoy
 #### Manage Dual Screens :
   - add your own script to refresh wallpaper / bar or window manager in script. 
 ### Rofi Menu with Keybinding
-  - Set location of sxhkdrc in show_help.sh (cat ~/.config/bspwm/sxhkdrc)
+  - Copy the show_help.sh in sxhkd and rename bspwm to sxhkd (cat ~/.config/bspwm/sxhkdrc)
+  - Copy the given keybind to sxhkdrc
 ### Notes and Todo.
  - Adding more useful things, themes and colors.
  - Pull Requests, Issues, Fork, Contributions are welcome.
