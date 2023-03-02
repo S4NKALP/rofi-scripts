@@ -17,7 +17,7 @@
 ## Installation
 Clone this repository
 ```
-$ git clone https://github.com/S4NKALP/scripts.git && cd scripts
+$ git clone https://github.com/S4NKALP/rofi-scripts.git && cd rofi-scripts
 ```
 
 Backup your rofi configs. 
